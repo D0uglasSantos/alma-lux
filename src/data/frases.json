@@ -1,0 +1,229 @@
+{
+  "frases": [
+    {
+      "frase": "Tudo posso naquele que me fortalece.",
+      "autor": "São Paulo, Filipenses 4:13",
+      "categoria": "fé"
+    },
+    {
+      "frase": "A coragem não é a ausência do medo, mas o triunfo sobre ele.",
+      "autor": "Nelson Mandela",
+      "categoria": "coragem"
+    },
+    {
+      "frase": "Não tenhais medo! Abri, escancarai as portas a Cristo!",
+      "autor": "São João Paulo II, Homilia de Inauguração do Pontificado, 22 de outubro de 1978",
+      "categoria": "fé"
+    },
+    {
+      "frase": "A fé é a certeza daquilo que esperamos e a prova das coisas que não vemos.",
+      "autor": "Hebreus 11:1",
+      "categoria": "fé"
+    },
+    {
+      "frase": "Sede fortes e corajosos. Não tenhais medo nem vos assusteis, pois o Senhor, vosso Deus, estará convosco onde quer que vades.",
+      "autor": "Josué 1:9",
+      "categoria": "coragem"
+    },
+    {
+      "frase": "A adversidade desperta em nós capacidades que, em circunstâncias favoráveis, teriam ficado adormecidas.",
+      "autor": "Horácio, poeta romano",
+      "categoria": "superação"
+    },
+    {
+      "frase": "Não se turbe o vosso coração; credes em Deus, crede também em mim.",
+      "autor": "João 14:1",
+      "categoria": "fé"
+    },
+    {
+      "frase": "A paciência é amarga, mas seus frutos são doces.",
+      "autor": "Jean-Jacques Rousseau",
+      "categoria": "virtudes"
+    },
+    {
+      "frase": "A alma se fortalece na proporção em que o corpo definha.",
+      "autor": "Sócrates",
+      "categoria": "espiritualidade"
+    },
+    {
+      "frase": "A verdadeira coragem é ir atrás dos seus sonhos mesmo quando todos dizem que eles são impossíveis.",
+      "autor": "Autor desconhecido",
+      "categoria": "inspiração"
+    },
+    {
+      "frase": "Deus é amor; e quem permanece no amor permanece em Deus, e Deus nele.",
+      "autor": "1 João 4:16",
+      "categoria": "amor"
+    },
+    {
+      "frase": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.",
+      "autor": "João 3:16",
+      "categoria": "amor"
+    },
+    {
+      "frase": "Fazei tudo o que ele vos disser.",
+      "autor": "Maria, Mãe de Jesus, João 2:5",
+      "categoria": "maria"
+    },
+    {
+      "frase": "Desde agora, todas as gerações me chamarão bem-aventurada.",
+      "autor": "Maria, Lucas 1:48",
+      "categoria": "maria"
+    },
+    {
+      "frase": "O Senhor te abençoe e te guarde; o Senhor faça resplandecer o seu rosto sobre ti e tenha misericórdia de ti; o Senhor levante sobre ti o seu rosto e te dê a paz.",
+      "autor": "Números 6:24-26",
+      "categoria": "bênção"
+    },
+    {
+      "frase": "O amor é paciente, é benigno; o amor não arde em ciúmes, não se vangloria, não se ensoberbece, não se porta inconvenientemente, não busca os seus próprios interesses, não se irrita, não suspeita mal; não se alegra com a injustiça, mas se alegra com a verdade; tudo suporta, tudo crê, tudo espera, tudo persevera.",
+      "autor": "São Paulo, 1 Coríntios 13:4-7",
+      "categoria": "amor"
+    },
+    {
+      "frase": "Lembrai-vos, ó piíssima Virgem Maria, que nunca se ouviu dizer que algum daqueles que têm recorrido à vossa proteção, implorado a vossa assistência e reclamado o vosso socorro, fosse por vós desamparado.",
+      "autor": "Oração “Lembrai-vos”",
+      "categoria": "maria"
+    },
+    {
+      "frase": "Amai-vos uns aos outros como eu vos amei.",
+      "autor": "João 15:12",
+      "categoria": "amor"
+    },
+    {
+      "frase": "A misericórdia de Deus é como um oceano infinito.",
+      "autor": "Santa Faustina Kowalska, Diário, 699",
+      "categoria": "misericórdia"
+    },
+    {
+      "frase": "Maria é a estrela do mar que guia os marinheiros da vida.",
+      "autor": "São Jerônimo",
+      "categoria": "maria"
+    },
+    {
+      "frase": "No mundo tereis aflições; mas tende bom ânimo, eu venci o mundo.",
+      "autor": "João 16:33",
+      "categoria": "esperança"
+    },
+    {
+      "frase": "Muitas são as aflições do justo, mas o Senhor o livra de todas.",
+      "autor": "Salmos 34:19",
+      "categoria": "esperança"
+    },
+    {
+      "frase": "As provações da vida são como o fogo que purifica o ouro, tornando-o mais valioso.",
+      "autor": "Autor desconhecido",
+      "categoria": "superação"
+    },
+    {
+      "frase": "Não vos conformeis com este século, mas transformai-vos pela renovação da vossa mente, para que experimenteis qual seja a boa, agradável e perfeita vontade de Deus.",
+      "autor": "São Paulo, Romanos 12:2",
+      "categoria": "transformação"
+    },
+    {
+      "frase": "A vida não é fácil para nenhum de nós. Mas e daí? Nós temos que ter perseverança e, acima de tudo, confiança em nós mesmos. Nós devemos acreditar que somos talentosos para alguma coisa e que essa coisa, a qualquer custo, deve ser alcançada.",
+      "autor": "Marie Curie",
+      "categoria": "perseverança"
+    },
+    {
+      "frase": "A felicidade não é a ausência de problemas, mas a capacidade de lidar com eles.",
+      "autor": "Autor desconhecido",
+      "categoria": "felicidade"
+    },
+    {
+      "frase": "Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam.",
+      "autor": "Salmos 23:4",
+      "categoria": "proteção"
+    },
+    {
+      "frase": "A vida é como andar de bicicleta: para manter o equilíbrio, você deve continuar em movimento.",
+      "autor": "Albert Einstein",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é um eco. O que você envia, volta.",
+      "autor": "Autor desconhecido",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é uma flor cujo amor é o mel.",
+      "autor": "Victor Hugo",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é um presente, aproveite cada momento.",
+      "autor": "Autor desconhecido",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é feita de escolhas. Escolha ser feliz.",
+      "autor": "Autor desconhecido",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é uma aventura ousada ou não é nada.",
+      "autor": "Helen Keller",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é um desafio, enfrente-o.",
+      "autor": "Autor desconhecido",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é uma jornada, não um destino.",
+      "autor": "Ralph Waldo Emerson",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é um sonho, e os sonhos são a realidade.",
+      "autor": "Autor desconhecido",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é um livro e aqueles que não viajam leem apenas uma página.",
+      "autor": "Agustine de Hipona",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é um presente, aproveite cada momento.",
+      "autor": "Autor desconhecido",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é uma dança, aproveite o ritmo.",
+      "autor": "Autor desconhecido",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é um desafio, aceite-o.",
+      "autor": "Autor desconhecido",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é uma oportunidade, aproveite-a.",
+      "autor": "Autor desconhecido",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é uma luta, lute por ela.",
+      "autor": "Autor desconhecido",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é um sonho, faça dele a sua realidade.",
+      "autor": "Autor desconhecido",
+      "categoria": "vida"
+    },
+    {
+      "frase": "A vida é um desafio, encontre a beleza nela.",
+      "autor": "Madre Teresa de Calcutá",
+      "categoria": "vida"
+    },
+    {
+      "frase": "Não se preocupe com o dia de amanhã, pois o amanhã trará as suas próprias preocupações. Basta a cada dia o seu próprio mal.",
+      "autor": "Mateus 6:34",
+      "categoria": "paz"
+    }
+  ]
+}
